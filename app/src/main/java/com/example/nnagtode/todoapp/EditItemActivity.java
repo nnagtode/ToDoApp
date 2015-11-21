@@ -11,8 +11,11 @@ import android.widget.EditText;
 
 public class EditItemActivity extends AppCompatActivity {
 
+    /* variable declaration */
     EditText etEditText;
+
     String displayText;
+
     int UpdatePosition;
 
     @Override
