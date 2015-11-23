@@ -36,6 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+##
 ## Notes
 
 Android Studio setup was little tricky. Since I decided to use the current version of Studio and the tutorial is 
